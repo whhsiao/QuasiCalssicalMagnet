@@ -6,3 +6,5 @@ Because of this condition, there is no contradiction between this theorem and th
 In this project, I am going to study some simple examples that demonstrate this phenomenon.
 ## Classical XY model
 ## Long-ranged Ising model
+
+![Monte Carlo simulation of magnetization](https://github.com/whhsiao/QuasiCalssicalMagnet/blob/master/phaseTransition.png)
