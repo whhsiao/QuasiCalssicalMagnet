@@ -7,4 +7,4 @@ In this project, I am going to study some simple examples that demonstrate this 
 ## Classical XY model
 ## Long-ranged Ising model
 
-![Monte Carlo simulation of magnetization](https://github.com/whhsiao/QuasiCalssicalMagnet/blob/master/phaseTransition.png)
+![Monte Carlo simulation of magnetization](https://github.com/whhsiao/QuasiClassicalMagnet/blob/master/phaseTransition.png)
