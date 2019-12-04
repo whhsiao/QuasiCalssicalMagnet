@@ -6,5 +6,8 @@ Because of this condition, there is no contradiction between this theorem and th
 In this project, I am going to study some simple examples that demonstrate this phenomenon.
 ## Classical XY model
 ## Long-ranged Ising model
+Ising model is an even more simplified model for magnets. Seriously speaking, it doesn't fullfil the assumption of Mermin-Wagner theorem. I brought it in here since it's quite easy to simulate and also it's known that the short-range Ising model in 1D (the one solved by Ising himself) doesn't have finite magnetization except temperature = 0.
+
+In the following plot I show finite magnetization at finite temperature can also be obtained if the interaction is long-range, in this case x^(-alpha) with alpha = 1.5.
 
 ![Monte Carlo simulation of magnetization](https://github.com/whhsiao/QuasiClassicalMagnet/blob/master/phaseTransition.png)
